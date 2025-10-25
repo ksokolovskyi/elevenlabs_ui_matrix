@@ -1,0 +1,21 @@
+name: elevenlabs_ui_matrix
+description: ElevenLabs UI Matrix
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  collection: ^1.19.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  very_good_analysis: ^10.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/og-image.png
