@@ -1,6 +1,6 @@
 # ElevenLabs UI Matrix
 
-https://github.com/user-attachments/assets/60b8c9c9-6e6b-4a88-bf10-3497870ed736
+https://github.com/user-attachments/assets/60a6db23-e56c-488e-ad34-0099b07409fa
 
 This demo is made with [Flutter][flutter].
 
